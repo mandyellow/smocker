@@ -19,6 +19,7 @@ The documentation is available on the [project's wiki](https://github.com/Thiht/
   - [Hello, World!](#hello-world)
 - [Development](#development)
   - [Integration Tests](#integration-tests)
+- [Authors](#authors)
 
 ## Installation
 
@@ -119,3 +120,8 @@ Then, open another terminal and launch the integration tests:
 ```sh
 make test-integration
 ```
+
+## Authors
+
+- [Thibaut Rousseau](https://github.com/Thiht)
+- [Gwendal Leclerc](https://github.com/gwleclerc)
